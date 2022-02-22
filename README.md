@@ -1,5 +1,6 @@
 # api-jogos
-Está api de jogos
+
+Api propria para cadastro de jogos
 
 ## Endpoints
 
@@ -19,6 +20,12 @@ Caso essa resposta aconteça, isso significa que aconteceu alguma falha durante 
 ## POST / AUTH
 
 Esse endpoint é responsavel por retornar a fazer o processo de login
+
+#### Respostas
+
+##### OK! 200
+
+Caso essa resposta aconteca voce receber o token JWT para conseguir essa endpoint protegidos na API.
 
 #### Parametros
 
