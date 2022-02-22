@@ -62,14 +62,14 @@ var DB = {
     users: [
         {
             id: 1,
-            name: "Victor Lima",
-            email: "victordevtb@guiadoprogramador.com",
+            name: "Examplo",
+            email: "examplo@hotmail.com",
             password: "nodejs<3"
         },
         {
             id: 20,
-            name: "Guilherme",
-            email: "guigg@gmail.com",
+            name: "Examplo 2",
+            email: "exemplo2@hotmail.com",
             password: "java123"
         }
     ]

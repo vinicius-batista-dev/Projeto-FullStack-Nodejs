@@ -16,6 +16,14 @@ Caso essa resposta aconteça voce vai receber a listagem de todos os games
 #### Falha na autenticacao! 401
 Caso essa resposta aconteça, isso significa que aconteceu alguma falha durante o processo de autenticacao da requisicao.
 
+## POST / AUTH
+
+Esse endpoint é responsavel por retornar a fazer o processo de login
+
+#### Parametros
+
+email: Email do usuario cadastrado no sistema
+
 ## Clona o projeto 
 
     https://github.com/vinicius-batista-dev/api-jogos.git
